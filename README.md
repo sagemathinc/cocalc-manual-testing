@@ -1,0 +1,1 @@
+Used to manually test editors in CoCalc. Clone into a new project and follow the directions for the relevant files. For testing file actions, see FILE_ACTIONS.md.
